@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="./frontend/src/assets/logo.svg" />
+    <img src="./mobile/assets/logo.svg" />
 </h1>
 
 <h1>
-    <img src="./frontend/public/be-the-hero.gif" />
+    <img src="./mobile/assets/be-the-hero.gif" />
 </h1>
 
 # Índice
